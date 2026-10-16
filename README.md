@@ -1,4 +1,7 @@
 # Monumental Monsteras CJ25 Project
+
+Code for PythonCodeJam 2025 
+
 Monumental Monsteras CJ25 Project is a typing speed test,
 but with a twist: You cannot type with a normal keyboard.
 You can only use the **wrong tool for the job**.
